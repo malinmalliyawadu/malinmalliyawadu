@@ -6,18 +6,6 @@ Full Stack Developer | Wellington, New Zealand 🥝
 
 I'm passionate about building scalable, cloud-native applications and creating seamless development experiences through automation and best practices.
 
-### 🚀 Tech Stack
-
-- **Languages & Frameworks:** .NET, TypeScript, React, Node.js
-- **Cloud & Infrastructure:** AWS, Docker, Kubernetes
-- **Specialties:** Continuous Delivery, DevOps, Cloud-First Architecture
-
-### 🌱 Currently Exploring
-
-- [Expo](https://expo.dev) - Building universal native apps with React
-- [Remix](https://remix.run) - Full-stack web framework focused on web standards
-- [Prisma](https://www.prisma.io) - Next-generation ORM for Node.js & TypeScript
-
 ### 💼 Open for Opportunities
 
 I'm available for contract and freelance work. Let's build something amazing together!
@@ -28,10 +16,8 @@ I'm available for contract and freelance work. Let's build something amazing tog
 
 ## 📊 GitHub Stats
 
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malinmalliyawadu&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malinmalliyawadu&theme=dark&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malinmalliyawadu&layout=compact&theme=dark&hide_border=true&langs_count=8)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=malinmalliyawadu&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malinmalliyawadu&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ---
 ### 🌟 Beyond Code
