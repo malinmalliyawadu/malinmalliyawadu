@@ -8,5 +8,4 @@ I'm available for contract and freelance work. Let's build something amazing tog
 
 📫 **Get in touch:** [malin.malliya.wadu@gmail.com](mailto:malin.malliya.wadu@gmail.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=malinmalliyawadu&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malinmalliyawadu&layout=compact&theme=dark&hide_border=true&langs_count=10)
